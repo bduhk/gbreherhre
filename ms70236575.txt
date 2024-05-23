@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ljamu3a-b81277fe087a.herokuapp.com",
+  "Id": "71d2359f-2650-4b1e-aa67-4ff5db2fd105"
+}
